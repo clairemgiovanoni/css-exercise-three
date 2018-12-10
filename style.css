@@ -38,19 +38,21 @@ nav {
 
 .content {
   float: left;
-  width: 80%;
+  width: 90%;
 }
 
 .arrow {
   float: right;
   width: 15%;
+  text-align: right;
+  margin-top: 20px;
 }
 
-h1 {
+.h1 .h3 {
   font-size: 20px;
   font-weight: bold;
 }
 
-h3 {
-  font-size: 16px;
+.h3 {
+  font-size: 12px;
 }
