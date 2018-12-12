@@ -22,7 +22,7 @@ nav {
 }
 
 .restaurant-list {
-  padding-top: 50px;
+  padding-top: 60px;
   background-color: #dadada;
 }
 
@@ -38,21 +38,21 @@ nav {
 
 .content {
   float: left;
-  width: 90%;
+  width: 80%;
+  margin-top: 6px;
 }
 
 .arrow {
   float: right;
-  width: 15%;
-  text-align: right;
-  margin-top: 20px;
+  width: 10%;
+  margin-top: 17px;
 }
 
-.h1 .h3 {
+.content h1 {
   font-size: 20px;
   font-weight: bold;
 }
 
-.h3 {
-  font-size: 10px;
+  .content h3 {
+  font-size: 14px;
 }
